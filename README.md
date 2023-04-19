@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeshwory
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently exploring Next.js.
+- 🌱 Next.js, React, React Native, Tailwind css, Styled components, Daisy UI
 - 💞️ I’m looking to collaborate on any web development projects.
 - 📫 How to reach me - shrestharajeshwory@gmail.com
 
