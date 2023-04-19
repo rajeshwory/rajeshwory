@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeshwory
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently exploring Next.js.
 - 💞️ I’m looking to collaborate on any web development projects.
 - 📫 How to reach me - shrestharajeshwory@gmail.com
 
